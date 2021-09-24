@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConversorGradosCentigrados</string>
+    <string name="titulo">Conversor de Temperatura</string>
+    <string name="grados_cent_grados">Grados Centígrados</string>
+    <string name="kelvin">Kelvin: 0.0</string>
+    <string name="farenheit">Farenheit: 0.0</string>
+</resources>
